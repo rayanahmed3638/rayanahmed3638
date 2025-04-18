@@ -1,4 +1,21 @@
-## Hi there 👋
+Hi, I'm Rayan Ahmed! 👋
+
+Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student at The University of Texas at Austin, passionate about embedded systems and IoT applications. I love developing innovative hardware and software projects, from smart-home gadgets and autonomous robots to interactive embedded games and health-tech solutions. Check out some of my projects and feel free to explore and experiment with my code!
+
+📌 Areas of Interest:
+- ⚡ Embedded Systems and Microcontrollers
+- 🛠️ IoT & Smart Devices
+- 🤖 Robotics
+- ❤️ Health Tech
+
+📬 Let’s Connect
+If you're interested in collaborating, sharing ideas, or simply chatting about tech, I'd love to hear from you!
+
+📧 Email: rayanahmed@utexas.edu
+
+Looking forward to connecting and creating awesome things together! 🚀
+
+
 
 <!--
 **rayanahmed3638/rayanahmed3638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
