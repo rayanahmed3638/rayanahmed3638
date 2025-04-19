@@ -15,6 +15,9 @@ If you're interested in collaborating, sharing ideas, or simply chatting about t
 
 Looking forward to connecting and creating awesome things together! 🚀
 
+## ⚙️ Hardware Projects
+
+- [**Texas Fight**](https://github.com/yourusername/texas-fight): Interactive hardware-based football rivalry game using a custom PCB and embedded systems.
 
 
 <!--
