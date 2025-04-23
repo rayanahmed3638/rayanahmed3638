@@ -17,7 +17,7 @@ Looking forward to connecting and creating awesome things together! 🚀
 
 ## ⚙️ Hardware Projects
 
-- [**Texas Fight**]([https://github.com/users/rayanahmed3638/projects/5/views/1?pane=info](https://github.com/Sanjivps/texasfight)): Interactive hardware-based football rivalry game using a custom PCB and embedded systems. **
+- [**Texas Fight**](https://github.com/Sanjivps/texasfight)): Interactive hardware-based football rivalry game using a custom PCB and embedded systems. **
 
 
 
