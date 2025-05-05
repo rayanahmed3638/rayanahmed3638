@@ -17,11 +17,12 @@ Looking forward to connecting and creating awesome things together! 🚀
 
 ## ⚙️ Hardware Projects
 
-- [**Texas Fight**](https://github.com/Sanjivps/texasfight): Interactive hardware-based football rivalry game using a custom PCB and embedded systems. **
+- [**Texas Fight**](https://github.com/Sanjivps/texasfight): Interactive hardware-based football rivalry game using a custom PCB and embedded systems.
 
 ## 💻 Software Projects
 
-- [**GymKey**]([https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts. **
+- [**Gym Key**](https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts.
+
 
 <!--
 **rayanahmed3638/rayanahmed3638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
