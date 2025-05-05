@@ -18,6 +18,8 @@ Looking forward to connecting and creating awesome things together! 🚀
 ## ⚙️ Hardware Projects
 
 - [**Texas Fight**](https://github.com/Sanjivps/texasfight): Interactive hardware-based football rivalry game using a custom PCB and embedded systems.
+- - [**Laundrify**](https://github.com/Sanjivps/laundrify): Smart system that uses sensors and Firebase to notify users when laundry is done and detect forgotten items.
+
 
 ## 💻 Software Projects
 
