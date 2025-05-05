@@ -21,7 +21,7 @@ Looking forward to connecting and creating awesome things together! 🚀
 
 ## 💻 Software Projects
 
-- [**Gym Key**](https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts.
+- [**GymKey**](https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts.
 
 
 <!--
