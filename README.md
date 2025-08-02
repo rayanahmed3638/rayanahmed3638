@@ -24,6 +24,8 @@ Looking forward to connecting and creating awesome things together! 🚀
 ## 💻 Software Projects
 
 - [**GymKey**](https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts.
+- [**Eventure**](https://github.com/rayanahmed3638/Eventure): App that analyzes attendee data and recommends networking events that align with your interests.
+  
 
 
 <!--
