@@ -1,6 +1,6 @@
 Hi, I'm Rayan Ahmed! 👋
 
-Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student at The University of Texas at Austin, passionate about embedded systems and IoT applications. I love developing innovative hardware and software projects, from smart-home gadgets and autonomous robots to interactive embedded games and health-tech solutions. Check out some of my projects and feel free to explore and experiment with my code!
+Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student at The University of Texas at Austin, passionate about embedded systems and IoT applications.
 
  Areas of Interest:
 - Embedded Systems and Microcontrollers
