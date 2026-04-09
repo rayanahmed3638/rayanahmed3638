@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student
 
 Email: rayanahmed@utexas.edu
 
-Looking forward to connecting and creating awesome things together! 🚀
+Looking forward to connecting and creating awesome things together! 
 
 ## ⚙️ Hardware Projects
 
