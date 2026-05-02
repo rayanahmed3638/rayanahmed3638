@@ -20,9 +20,9 @@ Looking forward to connecting and creating awesome things together!
 - [**Laundrify**](https://github.com/Sanjivps/laundrify): Smart system that uses sensors and Firebase to notify users when laundry is done and detect forgotten items.
 
 
-## 💻 Software Projects 
+## 💻 Software Projects (Edge Iot included)
 
--  [(Edge IoT) **FocusGuard**]((https://github.com/sualharun/Earned)): Android app that pauses your study timer when you look away — runs 3 chained ML models entirely on-device on Snapdragon 8 Elite NPU.
+- [**FocusGuard**]((https://github.com/sualharun/Earned)): Android app that pauses your study timer when you look away — runs 3 chained ML models entirely on-device on Snapdragon 8 Elite NPU.
 
 - [**GymKey**](https://github.com/adityapatwardhan1/healthtech-fitness): Fitness tracking app that rewards users for being active and logging workouts.
 - [**Eventure**](https://github.com/rayanahmed3638/Eventure): App that analyzes attendee data and recommends networking events that align with your interests.
