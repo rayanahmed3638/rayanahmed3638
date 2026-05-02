@@ -14,8 +14,8 @@ Email: rayanahmed@utexas.edu
 
 Looking forward to connecting and creating awesome things together! 
 
-## ⚙️ Hardware Projects
-
+## ⚙️ Hardware Projects  
+- [**Tweinstein**](https://github.com/rayanahmed3638/TweinStein): autonomous racing robot on a custom MSPM0 RTOS: LiDAR/IMU perception, PD wall-follower, heuristic overtaking state machine. 🏆 1st place, UT Austin ECE 445M/379K.
 - [**Texas Fight**](https://github.com/Sanjivps/texasfight): Interactive hardware-based football rivalry game using a custom PCB and embedded systems.
 - [**Laundrify**](https://github.com/Sanjivps/laundrify): Smart system that uses sensors and Firebase to notify users when laundry is done and detect forgotten items.
 
